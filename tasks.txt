@@ -1,0 +1,8 @@
+admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2018, 20 Oct 2019, Yes
+admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 25 Oct 2019, No
+filippo, Test task, Test task, 04 Jan 2020, 23 Jul 2023, No
+filippo, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 25 Oct 2019, No
+test, test, test, 20 Jan 2023, 22 Feb 2023, Yes
+filippo, PAsta MAtriciana, Improve recipe for pasta, 20 Jan 2023, 22 Feb 2022, Yes
+filippo, Lasagne with nuts, No nuts allergy, 20 Jan 2023, 10 Jan 2010, Yes
+test, Change password, Try to use a different password, 20 Jan 2023, 23 Apr 2030, Yes

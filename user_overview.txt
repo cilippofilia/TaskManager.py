@@ -1,0 +1,26 @@
+Here is an overview of users
+
+Users: 			 3
+Tasks amount: 		 5
+
+User: 			 admin
+
+Assigned tasks: 	 60 %
+Completed tasks: 	 0 %
+Uncompleted tasks: 	 100 %
+Overdue tasks: 		 60 %
+
+User: 			 filippo
+
+Assigned tasks: 	 20 %
+Completed tasks: 	 0 %
+Uncompleted tasks: 	 100 %
+Overdue tasks: 		 60 %
+
+User: 			 test
+
+Assigned tasks: 	 20 %
+Completed tasks: 	 0 %
+Uncompleted tasks: 	 100 %
+Overdue tasks: 		 60 %
+
